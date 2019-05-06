@@ -1,0 +1,47 @@
+body, html, div, blockquote, img, label, p, h1, h2, h3, h4, h5, h6, pre, ul, ol,
+li, dl, dt, dd, form, a, fieldset, th, td
+{margin: 0; padding: 0; border: 0;}
+body {	font-family: "宋体";font-size: 12px;color:#000000;line-height: 20px;text-align:left; }
+td,th {font-family: "宋体";font-size: 12px;color: #000000;}
+a {color: #000000;} 
+A:link {TEXT-DECORATION: none;}
+A:visited {TEXT-DECORATION: none;}
+A:hover {color: #ed5689;}
+ul,li{list-style-type:none;}
+.cleafix{clear:both;}
+#page{width:970px; margin:0 auto;}
+
+.da { width:1000px; margin:0 auto;}
+.lo{ width:1000px; height:50px; padding-top:30px;}
+.go { width: 200px;  float:left; margin-left:30px;}
+.kg { width: 700px;  float:right;}
+.kg input  {width:500px; height:30px; border:2px solid #ed5689; float:left }
+.kg p { width:90px; height:30px;  float:right; background:#ed5689; float:left; font-size: 14px; text-align:center; padding-top:6px;}
+.kg a:hover{ color:#FFFFFF;}
+.dao { height:50px;margin-top:30px; border-bottom:2px solid #000000;}
+.dao li { width:125px; float:left; text-align:center; line-height:60px;}
+.dao a { font-size: 14px; font-weight: bold;}
+.bannr { margin-top:20px;}
+.STYLE3 {font-size: 20px; font-weight: bold;  }
+.STYLE5 {font-size: 20px; font-weight: bold; color: #ed5689; float:right; margin-right:50px; }
+.STYLE7 {color: #333333}
+.tu { height:300px;}
+.tu img { margin-left:15px;}
+.ye { height:20px; margin-top:10px;}
+.ye p { width:250px; float:left; text-align:center; color:#ed5689; font-weight: bold;}
+.wen  { height:20px; margin-top:10px;}
+.wen p{ width:250px; float:left; text-align:center; }
+.tt { margin-top:20px;}
+.tt img { margin-left:15px;}
+.foot { width:1000px; height:80px; background:#f085a9; margin-top:20px; text-align:center;}
+.foot p { font-size: 14px; line-height:80px;}
+
+
+.STYLE9 {font-size: 20px; font-weight: bold; color:#333333; padding-left:15px;} 
+.shang {  width:400px; height:60px; margin:0 auto; padding-top:50px;}
+.yi { width:32px; height:32px; float:left; border:1px solid #666666; margin-left:10px; background:#f085a9;}
+.yi p { text-align:center; font-size: 14px; color:#FFFFFF; line-height:30px; }
+.er { width:32px; height:32px; float:left; border:1px solid #666666;margin-left:10px}
+.er p  { text-align:center; font-size: 14px;  line-height:30px; }
+.san { width:70px; height:32px; float:left; border:1px solid #666666; margin-left:10px}
+.san p { text-align:center; font-size: 14px;  line-height:30px; }
